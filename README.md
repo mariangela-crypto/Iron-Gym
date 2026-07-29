@@ -1,4 +1,4 @@
-# Iron Pulse Gym
+# Iron Gym
 
 ## Descripción
 Sistema de reservas para gimnasio desarrollado con React + Tailwind. 
