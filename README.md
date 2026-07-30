@@ -23,6 +23,9 @@ Permite agendar citas con entrenadores seleccionando Día, Especialidad y Horari
 - TC-002: Validar que no se pueda reservar fuera de horario - Pass
 - TC-003: Validar que no se haga reserva a la misma hora con el mismo entrenador- Failed
 - TC-004: Validar mensaje de reserva "CANCELADA" - Pass
-## Cómo ejecutar
-`npm install`  
-`npm run dev`
+** Acceso a la Aplicación**
+**URL:** -----
+**Usuario Demo:** ----
+**Contraseña:** ----
+
+> Nota: Esta es una app demo creada con AntiGravity para fines de QA
