@@ -15,14 +15,15 @@ Permite agendar citas con entrenadores seleccionando Día, Especialidad y Horari
 - Tailwind CSS
 - SQLite
 
-## Capturas
-![Pantalla principal](./assets/gym-app.png)
-
 ## Casos de Prueba
 - TC-001: Validar que no se pueda reservar los días Lunes - Pass
+- Msj-CANCELADA.png
 - TC-002: Validar que no se pueda reservar fuera de horario - Pass
+- Reserva
 - TC-003: Validar que no se haga reserva a la misma hora con el mismo entrenador- Failed
+- 
 - TC-004: Validar mensaje de reserva "CANCELADA" - Pass
+- 
 ** Acceso a la Aplicación**
 **URL:** -----
 **Usuario Demo:** ----
